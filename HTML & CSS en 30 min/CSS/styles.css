@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgb(238, 223, 91);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 102, 0);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 18px;
+  border: 10px solid rgb(84, 255, 5);
+  font-size: 55px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+p{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
